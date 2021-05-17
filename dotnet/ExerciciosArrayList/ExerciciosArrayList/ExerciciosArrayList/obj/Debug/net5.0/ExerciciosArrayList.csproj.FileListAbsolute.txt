@@ -1,0 +1,16 @@
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\bin\Debug\net5.0\ExerciciosArrayList.exe
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\bin\Debug\net5.0\ExerciciosArrayList.deps.json
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\bin\Debug\net5.0\ExerciciosArrayList.runtimeconfig.json
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\bin\Debug\net5.0\ExerciciosArrayList.runtimeconfig.dev.json
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\bin\Debug\net5.0\ExerciciosArrayList.dll
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\bin\Debug\net5.0\ref\ExerciciosArrayList.dll
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\bin\Debug\net5.0\ExerciciosArrayList.pdb
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ExerciciosArrayList.csprojAssemblyReference.cache
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ExerciciosArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ExerciciosArrayList.AssemblyInfoInputs.cache
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ExerciciosArrayList.AssemblyInfo.cs
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ExerciciosArrayList.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ExerciciosArrayList.dll
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ref\ExerciciosArrayList.dll
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ExerciciosArrayList.pdb
+C:\Estudos\dotnet\ExerciciosArrayList\ExerciciosArrayList\ExerciciosArrayList\obj\Debug\net5.0\ExerciciosArrayList.genruntimeconfig.cache

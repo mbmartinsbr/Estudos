@@ -1,0 +1,16 @@
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ExEntradaDados.csprojAssemblyReference.cache
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ExEntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ExEntradaDados.AssemblyInfoInputs.cache
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ExEntradaDados.AssemblyInfo.cs
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ExEntradaDados.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\bin\Debug\net5.0\ExEntradaDados.exe
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\bin\Debug\net5.0\ExEntradaDados.deps.json
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\bin\Debug\net5.0\ExEntradaDados.runtimeconfig.json
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\bin\Debug\net5.0\ExEntradaDados.runtimeconfig.dev.json
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\bin\Debug\net5.0\ExEntradaDados.dll
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\bin\Debug\net5.0\ref\ExEntradaDados.dll
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\bin\Debug\net5.0\ExEntradaDados.pdb
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ExEntradaDados.dll
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ref\ExEntradaDados.dll
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ExEntradaDados.pdb
+C:\Estudos\dotnet\EntradaDados\ExEntradaDados\ExEntradaDados\obj\Debug\net5.0\ExEntradaDados.genruntimeconfig.cache

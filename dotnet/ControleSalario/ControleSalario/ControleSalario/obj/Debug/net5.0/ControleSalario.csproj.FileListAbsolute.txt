@@ -1,0 +1,16 @@
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\bin\Debug\net5.0\ControleSalario.exe
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\bin\Debug\net5.0\ControleSalario.deps.json
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\bin\Debug\net5.0\ControleSalario.runtimeconfig.json
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\bin\Debug\net5.0\ControleSalario.runtimeconfig.dev.json
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\bin\Debug\net5.0\ControleSalario.dll
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\bin\Debug\net5.0\ref\ControleSalario.dll
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\bin\Debug\net5.0\ControleSalario.pdb
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ControleSalario.csprojAssemblyReference.cache
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ControleSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ControleSalario.AssemblyInfoInputs.cache
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ControleSalario.AssemblyInfo.cs
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ControleSalario.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ControleSalario.dll
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ref\ControleSalario.dll
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ControleSalario.pdb
+C:\Estudos\dotnet\ControleSalario\ControleSalario\ControleSalario\obj\Debug\net5.0\ControleSalario.genruntimeconfig.cache

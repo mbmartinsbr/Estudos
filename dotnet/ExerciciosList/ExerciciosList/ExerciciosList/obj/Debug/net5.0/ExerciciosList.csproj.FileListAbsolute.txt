@@ -1,0 +1,16 @@
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\bin\Debug\net5.0\ExerciciosList.exe
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\bin\Debug\net5.0\ExerciciosList.deps.json
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\bin\Debug\net5.0\ExerciciosList.runtimeconfig.json
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\bin\Debug\net5.0\ExerciciosList.runtimeconfig.dev.json
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\bin\Debug\net5.0\ExerciciosList.dll
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\bin\Debug\net5.0\ref\ExerciciosList.dll
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\bin\Debug\net5.0\ExerciciosList.pdb
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ExerciciosList.csprojAssemblyReference.cache
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ExerciciosList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ExerciciosList.AssemblyInfoInputs.cache
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ExerciciosList.AssemblyInfo.cs
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ExerciciosList.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ExerciciosList.dll
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ref\ExerciciosList.dll
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ExerciciosList.pdb
+C:\Estudos\dotnet\ExerciciosList\ExerciciosList\ExerciciosList\obj\Debug\net5.0\ExerciciosList.genruntimeconfig.cache

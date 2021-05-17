@@ -1,0 +1,16 @@
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\bin\Debug\net5.0\Fixacao.exe
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\bin\Debug\net5.0\Fixacao.deps.json
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\bin\Debug\net5.0\Fixacao.runtimeconfig.json
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\bin\Debug\net5.0\Fixacao.runtimeconfig.dev.json
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\bin\Debug\net5.0\Fixacao.dll
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\bin\Debug\net5.0\ref\Fixacao.dll
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\bin\Debug\net5.0\Fixacao.pdb
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\Fixacao.csprojAssemblyReference.cache
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\Fixacao.AssemblyInfoInputs.cache
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\Fixacao.AssemblyInfo.cs
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\Fixacao.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\Fixacao.dll
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\ref\Fixacao.dll
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\Fixacao.pdb
+C:\Estudos\dotnet\Fixacao1\Fixacao\Fixacao\obj\Debug\net5.0\Fixacao.genruntimeconfig.cache

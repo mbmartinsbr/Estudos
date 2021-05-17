@@ -1,0 +1,16 @@
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.csprojAssemblyReference.cache
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfo.cs
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.exe
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.deps.json
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.json
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.dev.json
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.dll
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net5.0\ref\StringBuilder.dll
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.pdb
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.dll
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\ref\StringBuilder.dll
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.pdb
+C:\Estudos\dotnet\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.genruntimeconfig.cache

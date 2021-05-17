@@ -1,0 +1,16 @@
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\bin\Debug\net5.0\ExercicioSec5.exe
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\bin\Debug\net5.0\ExercicioSec5.deps.json
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\bin\Debug\net5.0\ExercicioSec5.runtimeconfig.json
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\bin\Debug\net5.0\ExercicioSec5.runtimeconfig.dev.json
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\bin\Debug\net5.0\ExercicioSec5.dll
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\bin\Debug\net5.0\ref\ExercicioSec5.dll
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\bin\Debug\net5.0\ExercicioSec5.pdb
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ExercicioSec5.csprojAssemblyReference.cache
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ExercicioSec5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ExercicioSec5.AssemblyInfoInputs.cache
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ExercicioSec5.AssemblyInfo.cs
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ExercicioSec5.csproj.CoreCompileInputs.cache
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ExercicioSec5.dll
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ref\ExercicioSec5.dll
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ExercicioSec5.pdb
+C:\Estudos\dotnet\ExercicioSec5\ExercicioSec5\ExercicioSec5\obj\Debug\net5.0\ExercicioSec5.genruntimeconfig.cache
